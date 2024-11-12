@@ -1,0 +1,1 @@
+javascript:a=()=>{window.history.back(); setTimeout(c, 50);}; c=()=> { btns=[...document.querySelectorAll('.r9jbij9')].filter(b => b.childNodes[1].childNodes[0].type !== 'ico_checkmark_filled'); b = btns.pop(); b.childNodes[0].click(); setTimeout(a, 50); }; c();
