@@ -1,3 +1,3 @@
 # Chase Offer Auto-adder
 
-[![Demo:](https://raw.githubusercontent.com/wongww/chase/main/demo.mov)]
+[![Demo:](https://raw.githubusercontent.com/wongww/chase/main/demo.mp4)]
